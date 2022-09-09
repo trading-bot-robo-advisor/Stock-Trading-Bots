@@ -1,1 +1,1 @@
-# Datasets for TDH-DQN bot 
+# Datasets for TDH-DQN trading bot 
