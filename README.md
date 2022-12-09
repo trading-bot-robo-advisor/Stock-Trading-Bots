@@ -44,4 +44,8 @@ decay, requiring additional attention to performance monitoring and model mainte
 [Presentation Video describing the Trading Bots](https://youtu.be/sUZHrpG-JMs)
 <br><br>
 [Article: Multi-Timeframe Algorithmic Trading Bots using Thick Data Heuristics with Deep Reinforcement Learning](https://ojs.wiserpub.com/index.php/AIE/article/view/1722)
+<br><br>
+[Ateriox AI](http://ateriox.com)
+
+
 
