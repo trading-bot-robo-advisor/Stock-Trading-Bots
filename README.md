@@ -38,7 +38,7 @@ and make appropriate use of the results. The use of powerful models with a high 
 requires particular care to avoid over-fitting when the signal-to-noise ratio is as low as is often the case with
 financial data. Furthermore, the competitive nature of trading implies that patterns evolve quickly as signals
 decay, requiring additional attention to performance monitoring and model maintenance.
-<br><br>
+<br>
 
 <br>
 [Presentation Video describing the Trading Bots](https://youtu.be/sUZHrpG-JMs)
