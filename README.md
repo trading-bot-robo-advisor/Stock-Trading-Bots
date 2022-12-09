@@ -4,5 +4,5 @@ Multi-Timeframe Algorithmic Trading Bots using Thick Data Heuristics with Deep R
 <br>
 [Presentation Video of Trading Bots](https://youtu.be/sUZHrpG-JMs)
 
-[Article: Multi-Timeframe Algorithmic Trading Bots using Thick Data Heuristics with Deep Reinforcement Learning](https://github.com/trading-bot-robo-advisor/Stock-Trading-Bots)
+[Article: Multi-Timeframe Algorithmic Trading Bots using Thick Data Heuristics with Deep Reinforcement Learning](https://ojs.wiserpub.com/index.php/AIE/article/view/1722)
 
