@@ -5,13 +5,15 @@ This article presents an augmented Artificial Intelligence (AI) algorithmic trad
 SUMMARY: In the author's master's thesis titled, 'Multi-Timeframe Algorithmic Trading Bots using Thick
 Data Heuristics with Deep Reinforcement Learning' he studied all the modern Artificial Intelligence (AI)
 algorithms. When the movies and media refer to "AI", they are referring to the field of Reinforcement
-Learning (RL) studied rigorously by computer scientists.
+Learning (RL) studied rigorously by computer scientists.<br>
+
 BACKGROUND: DRL agents can do amazing things, including playing Atari, chess, and Go. And yet they
 are all versions of a Turing Machine, which is an abstract model that sets the limits of what can be done by a
 computer through its mathematical logic. The author would argue no conscious, intelligent entity is going to
 emerge from a Turing Machine. This is the reason the author has taken an augmented AI approach. Currently,
 augmented AI is the best form of AI we have available as stock traders. The bots can deal with more tasks
 better than human traders do, including predicting stock buying and selling order timing executions [9].
+<br>
 METHODS: In the thesis, combining the augmented AI human trader's intuition and heuristics with DRL
 techniques to provide more focused drivers for trading order execution timing was explored. The thesis
 illustrates to the reader how to combine Thick Data Heuristics (TDH) and Deep Q-networks (DQN) into a
@@ -21,6 +23,7 @@ PROBLEM DEFINITION: Solve the sequential decision-making problem formalized of t
 optimization of order timing executions for a single catalyst stock. The environment for the experiments was
 comprised of the observation space including the state, discrete action space (discrete for the bot, but
 continuous for human (buy, sell, wait)), and finally rewards.
+<br>
 RESULTS: DRL and ML algorithms cannot entirely replace human intuition and heuristics. Complex models,
 if not correctly guided can over-fit or uncover false relationships and patterns. Crafting financial models is an
 art form more than a science. It's important to test many different model parameters and train the model for the
@@ -28,6 +31,7 @@ appropriate market conditions. The author would argue that to be successful at a
 about finding the holy grail cocktail of trading rules, sentiment, or fundamental or technical analysis that will
 always be correct. It is about crafting specific models using experience and intuition to catalyst stocks at
 specific times.
+<br>
 CONCLUSIONS: The application of DRL still requires significant human intervention and domain expertise.
 Humans must still be relied upon to define objectives, select, and curate data, design and optimize a model,
 and make appropriate use of the results. The use of powerful models with a high capacity to learn patterns
