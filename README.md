@@ -70,11 +70,7 @@ Test your trading bot on live market data and fine-tune it as needed to optimize
 
 
 <br>
-[Presentation Video describing the Trading Bots](https://youtu.be/sUZHrpG-JMs)
-<br><br>
 [Article: Multi-Timeframe Algorithmic Trading Bots using Thick Data Heuristics with Deep Reinforcement Learning](https://ojs.wiserpub.com/index.php/AIE/article/view/1722)
-<br><br>
-[Ateriox AI](http://ateriox.com)
 
 
 
