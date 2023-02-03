@@ -18,6 +18,6 @@ In conclusion, while AI and machine learning have changed the landscape of algor
 [Article: Multi-Timeframe Algorithmic Trading Bots using Thick Data Heuristics with Deep Reinforcement Learning](https://ojs.wiserpub.com/index.php/AIE/article/view/1722)
 
 <br>
-[Contact Gregory Roy](https://www.linkedin.com/in/gregory-roy12/)
+[Contact](https://www.linkedin.com/in/gregory-roy12/)
 <br>
-[Gregory Roy ORDID]([https://orcid.org/0000-0001-6941-5990)
+[ORDID]([https://orcid.org/0000-0001-6941-5990)
