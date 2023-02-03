@@ -1,4 +1,4 @@
-# Datasets for TDH-DQN trading bots, By Gregory Roy AI Research Scientist
+# Datasets for TDH-DQN trading bots, By Gregory Roy
 Combining AI and Human Intuition: The Future of Algorithmic Trading
 
 Artificial intelligence and machine learning have revolutionized the world of algorithmic trading, but they are not without limitations. The results of a new study by Gregory Roy, an AI research scientist, suggest that when it comes to trading, a combination of human intuition and AI algorithms may be the best approach.
