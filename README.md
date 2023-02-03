@@ -19,3 +19,5 @@ In conclusion, while AI and machine learning have changed the landscape of algor
 
 <br>
 [Contact Gregory Roy](https://www.linkedin.com/in/gregory-roy12/)
+<br>
+[Gregory Roy ORDID]([https://orcid.org/0000-0001-6941-5990)
