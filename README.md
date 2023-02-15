@@ -15,7 +15,7 @@ In conclusion, while AI and machine learning have changed the landscape of algor
 
 
 <br>
-Article: Multi-Timeframe Algorithmic Trading Bots using Thick Data Heuristics with Deep Reinforcement Learning (https://ojs.wiserpub.com/index.php/AIE/article/view/1722)
+Article: Multi-Timeframe Algorithmic Trading Bots using Thick Data Heuristics with Deep Reinforcement Learning (https://scholar.archive.org/work/phjlix2hjradrkpyf7d2cya2nm/access/wayback/https://ojs.wiserpub.com/index.php/AIE/article/download/1722/1129)
 
 <br>
 Contact (https://www.linkedin.com/in/gregory-roy12/)
